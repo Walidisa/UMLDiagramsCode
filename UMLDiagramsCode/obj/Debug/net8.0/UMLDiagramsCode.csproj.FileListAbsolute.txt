@@ -1,0 +1,15 @@
+C:\Users\walid\source\repos\UMLDiagramsCode\UMLDiagramsCode\bin\Debug\net8.0\UMLDiagramsCode.exe
+C:\Users\walid\source\repos\UMLDiagramsCode\UMLDiagramsCode\bin\Debug\net8.0\UMLDiagramsCode.deps.json
+C:\Users\walid\source\repos\UMLDiagramsCode\UMLDiagramsCode\bin\Debug\net8.0\UMLDiagramsCode.runtimeconfig.json
+C:\Users\walid\source\repos\UMLDiagramsCode\UMLDiagramsCode\bin\Debug\net8.0\UMLDiagramsCode.dll
+C:\Users\walid\source\repos\UMLDiagramsCode\UMLDiagramsCode\bin\Debug\net8.0\UMLDiagramsCode.pdb
+C:\Users\walid\source\repos\UMLDiagramsCode\UMLDiagramsCode\obj\Debug\net8.0\UMLDiagramsCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walid\source\repos\UMLDiagramsCode\UMLDiagramsCode\obj\Debug\net8.0\UMLDiagramsCode.AssemblyInfoInputs.cache
+C:\Users\walid\source\repos\UMLDiagramsCode\UMLDiagramsCode\obj\Debug\net8.0\UMLDiagramsCode.AssemblyInfo.cs
+C:\Users\walid\source\repos\UMLDiagramsCode\UMLDiagramsCode\obj\Debug\net8.0\UMLDiagramsCode.csproj.CoreCompileInputs.cache
+C:\Users\walid\source\repos\UMLDiagramsCode\UMLDiagramsCode\obj\Debug\net8.0\UMLDiagramsCode.sourcelink.json
+C:\Users\walid\source\repos\UMLDiagramsCode\UMLDiagramsCode\obj\Debug\net8.0\UMLDiagramsCode.dll
+C:\Users\walid\source\repos\UMLDiagramsCode\UMLDiagramsCode\obj\Debug\net8.0\refint\UMLDiagramsCode.dll
+C:\Users\walid\source\repos\UMLDiagramsCode\UMLDiagramsCode\obj\Debug\net8.0\UMLDiagramsCode.pdb
+C:\Users\walid\source\repos\UMLDiagramsCode\UMLDiagramsCode\obj\Debug\net8.0\UMLDiagramsCode.genruntimeconfig.cache
+C:\Users\walid\source\repos\UMLDiagramsCode\UMLDiagramsCode\obj\Debug\net8.0\ref\UMLDiagramsCode.dll
